@@ -1,6 +1,5 @@
 # TaxLaw-Analyser: Semantic Regulatory Delta Engine
 
-Lead Analyst: Anshul Kumaria | Ernst & Young LLP Tax Advisory Practice  
 Deterministic state-diffing sidecar for tax regulatory compliance. Leverages local worker parsing to isolate statutory clause changes between tax document versions (Year A vs. Year B), reducing enterprise commercial LLM payload sizes by over 90 percent and eliminating context-window hallucinations.
 
 ---
